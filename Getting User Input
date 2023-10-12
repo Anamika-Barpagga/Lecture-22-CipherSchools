@@ -1,0 +1,21 @@
+const AddTask = () =>{
+  return <p>This is add task</p>
+}
+
+export default AddTask;
+
+const AddTask = () =>{
+  return {
+      <div>
+      <form>
+        <div class="field">
+        <label>Short Text</label>
+        <textarea rows="2"></textarea>
+        </div>
+      </form>
+      </div>
+  }
+}
+
+export default AddTask;
+   
